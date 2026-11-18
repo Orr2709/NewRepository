@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36717.8 d17.14
+VisualStudioVersion = 17.14.36717.8
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFirstWinFormApp", "MyFirstWinFormApp.csproj", "{BA3683A4-83A8-4ACE-A18B-0DAEDE72E126}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TraficLight", "..\TraficLight\TraficLight.csproj", "{2CAECC44-B066-4286-9321-C057214A169E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{BA3683A4-83A8-4ACE-A18B-0DAEDE72E126}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BA3683A4-83A8-4ACE-A18B-0DAEDE72E126}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BA3683A4-83A8-4ACE-A18B-0DAEDE72E126}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CAECC44-B066-4286-9321-C057214A169E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CAECC44-B066-4286-9321-C057214A169E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CAECC44-B066-4286-9321-C057214A169E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CAECC44-B066-4286-9321-C057214A169E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

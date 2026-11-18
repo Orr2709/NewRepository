@@ -14,6 +14,7 @@ namespace MyFirstWinFormApp
         [STAThread]
         static void Main()
         {
+             
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             MyFirstForm myForm = new MyFirstForm();
